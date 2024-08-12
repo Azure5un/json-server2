@@ -4,7 +4,7 @@
       "id": 1,
       "name": "Full-Service Wedding Planning",
       "description": "Comprehensive wedding planning services that cover every detail of your big day, from start to finish.",
-      "image_url": "/src/images/full_service.jpg"
+      "image_url": "https://master--elegentevents.netlify.app/src/images/full_service.jpg"
     },
     {
       "id": 2,
