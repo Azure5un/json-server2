@@ -1,56 +1,58 @@
 {
+  "services": [
     {
-        "id": 1,
-        "name": "Full-Service Wedding Planning",
-        "description": "Comprehensive wedding planning services for every aspect of your big day.",
-        "image_url": "/src/images/full_service.jpg"
+      "id": 1,
+      "name": "Full-Service Wedding Planning",
+      "description": "Comprehensive wedding planning services that cover every detail of your big day, from start to finish.",
+      "image_url": "/src/images/full_service.jpg"
     },
     {
-        "id": 2,
-        "name": "Day-Of Coordination",
-        "description": "On-site coordination to ensure your wedding day goes smoothly.",
-        "image_url": "/src/images/day_of_coordination.jpg"
+      "id": 2,
+      "name": "Day-Of Coordination",
+      "description": "On-site coordination on the day of your wedding to ensure everything goes according to plan, without a hitch.",
+      "image_url": "/src/images/day_of_coordination.jpg"
     },
     {
-        "id": 3,
-        "name": "Vendor Management",
-        "description": "Managing all your vendors and ensuring timely delivery of services.",
-        "image_url": "/src/images/vendor_management.jpg"
+      "id": 3,
+      "name": "Vendor Management",
+      "description": "Managing all your vendors, ensuring timely delivery of services, and handling any issues that arise.",
+      "image_url": "/src/images/vendor_management.jpg"
     },
     {
-        "id": 4,
-        "name": "Venue Selection",
-        "description": "Helping you find the perfect venue that suits your style and budget.",
-        "image_url": "/src/images/venue_selection.jpg"
+      "id": 4,
+      "name": "Venue Selection",
+      "description": "Assisting you in selecting the perfect venue that matches your vision and budget, handling all the logistics.",
+      "image_url": "/src/images/venue_selection.jpg"
     },
     {
-        "id": 5,
-        "name": "Event Design",
-        "description": "Creating a cohesive design that reflects your personal style.",
-        "image_url": "/src/images/event_design.jpg"
+      "id": 5,
+      "name": "Event Design",
+      "description": "Designing a cohesive and elegant event that reflects your personal style and aesthetic preferences.",
+      "image_url": "/src/images/event_design.jpg"
     },
     {
-        "id": 6,
-        "name": "Guest Management",
-        "description": "Managing RSVPs, seating arrangements, and guest communications.",
-        "image_url": "/src/images/guest_management.jpg"
+      "id": 6,
+      "name": "Guest Management",
+      "description": "Handling guest RSVPs, seating arrangements, and communications to ensure a smooth guest experience.",
+      "image_url": "/src/images/guest_management.jpg"
     },
     {
-        "id": 7,
-        "name": "Photography",
-        "description": "Capturing every moment of your special day with professional photography services.",
-        "image_url": "/src/images/photographer.jpg"
+      "id": 7,
+      "name": "Photography",
+      "description": "Professional photography services to capture every moment of your special day in stunning detail.",
+      "image_url": "/src/images/photographor.jpg"
     },
     {
-        "id": 8,
-        "name": "Catering",
-        "description": "Providing delicious catering options tailored to your tastes.",
-        "image_url": "/src/images/catering.jpg"
+      "id": 8,
+      "name": "Catering",
+      "description": "Catering services tailored to your tastes, offering a variety of delicious options for your wedding.",
+      "image_url": "/src/images/catering.jpg"
     },
     {
-        "id": 9,
-        "name": "Entertainment",
-        "description": "Organizing live entertainment, music, and more to keep your guests entertained.",
-        "image_url": "/src/images/entertainment.jpg"
+      "id": 9,
+      "name": "Entertainment",
+      "description": "Providing entertainment options including live music, DJs, and more to keep your guests engaged and entertained.",
+      "image_url": "/src/images/entertainment.jpg"
     }
+  ]
 }
