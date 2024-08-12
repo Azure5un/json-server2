@@ -1,9 +1,9 @@
 {
-  "reviews": [
+  "testimonials": [
     {
-      "id": 1,
-      "user": "Alice",
-      "review": "A truly outstanding experience."
+      "id": 3,
+      "name": "Alice Johnson",
+      "message": "Highly recommend this service!"
     }
   ]
 }
