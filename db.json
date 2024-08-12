@@ -1,0 +1,9 @@
+{
+  "reviews": [
+    {
+      "id": 1,
+      "user": "Alice",
+      "review": "A truly outstanding experience."
+    }
+  ]
+}
