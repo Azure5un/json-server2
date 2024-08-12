@@ -2,21 +2,57 @@
   "services": [
     {
       "id": 1,
-      "name": "Wedding Planning",
-      "description": "Comprehensive wedding planning services.",
-      "image_url": "https://example.com/images/service1.jpg"
+      "name": "Full-Service Wedding Planning",
+      "description": "Comprehensive wedding planning services that cover every detail of your big day, from start to finish.",
+      "image_url": "/src/images/service1.jpg"
     },
     {
       "id": 2,
-      "name": "Venue Selection",
-      "description": "Helping you find the perfect venue.",
-      "image_url": "https://example.com/images/service2.jpg"
+      "name": "Day-Of Coordination",
+      "description": "On-site coordination on the day of your wedding to ensure everything goes according to plan, without a hitch.",
+      "image_url": "/src/images/service2.jpg"
     },
     {
       "id": 3,
+      "name": "Vendor Management",
+      "description": "Managing all your vendors, ensuring timely delivery of services, and handling any issues that arise.",
+      "image_url": "/src/images/service3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Venue Selection",
+      "description": "Assisting you in selecting the perfect venue that matches your vision and budget, handling all the logistics.",
+      "image_url": "/src/images/service4.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Event Design",
+      "description": "Designing a cohesive and elegant event that reflects your personal style and aesthetic preferences.",
+      "image_url": "/src/images/service5.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Guest Management",
+      "description": "Handling guest RSVPs, seating arrangements, and communications to ensure a smooth guest experience.",
+      "image_url": "/src/images/service6.jpg"
+    },
+    {
+      "id": 7,
       "name": "Photography",
-      "description": "Capturing your special moments.",
-      "image_url": "https://example.com/images/service3.jpg"
+      "description": "Professional photography services to capture every moment of your special day in stunning detail.",
+      "image_url": "/src/images/service7.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Catering",
+      "description": "Catering services tailored to your tastes, offering a variety of delicious options for your wedding.",
+      "image_url": "/src/images/service8.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Entertainment",
+      "description": "Providing entertainment options including live music, DJs, and more to keep your guests engaged and entertained.",
+      "image_url": "/src/images/service9.jpg"
     }
   ]
 }
