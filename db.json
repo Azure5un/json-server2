@@ -32,23 +32,6 @@
     },
     {
       "id": 6,
-      "name": "Guest Management",
-      "description": "Handling guest RSVPs, seating arrangements, and communications to ensure a smooth guest experience.",
-      "image_url": "/images/guest_management.jpg"
-    },
-    {
-      "id": 7,
-      "name": "Photography",
-      "description": "Professional photography services to capture every moment of your special day in stunning detail.",
-      "image_url": "images/photographer.jpg"
-    {
-      "id": 8,
-      "name": "Catering",
-      "description": "Catering services tailored to your tastes, offering a variety of delicious options for your wedding.",
-      "image_url": "/images/catering.jpg"
-    },
-    {
-      "id": 9,
       "name": "Entertainment",
       "description": "Providing entertainment options including live music, DJs, and more to keep your guests engaged and entertained.",
       "image_url": "/images/entertainment.jpg"
