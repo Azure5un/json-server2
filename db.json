@@ -10,7 +10,7 @@
       "id": 2,
       "name": "Day-Of Coordination",
       "description": "On-site coordination on the day of your wedding to ensure everything goes according to plan, without a hitch.",
-      "image_url": "src/images/day_of_coordination.jpg"
+      "image_url": "https://github.com/Azure5un/Wedding-Planner-FrontEnd/blob/65e130b4d0ce80635ce652a891efb0bef39d637c/src/images/day_of_coordination.jpg"
     },
     {
       "id": 3,
