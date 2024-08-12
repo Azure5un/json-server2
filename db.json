@@ -1,14 +1,22 @@
 {
-  "testimonials": [
+  "services": [
     {
-      "id": 3,
-      "name": "Alice Johnson",
-      "message": "Highly recommend this service!"
+      "id": 1,
+      "name": "Wedding Planning",
+      "description": "Comprehensive wedding planning services.",
+      "image_url": "https://example.com/images/service1.jpg"
     },
     {
-      "id": 4,
-      "name": "Bob Brown",
-      "message": "Great experience overall!"
+      "id": 2,
+      "name": "Venue Selection",
+      "description": "Helping you find the perfect venue.",
+      "image_url": "https://example.com/images/service2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Photography",
+      "description": "Capturing your special moments.",
+      "image_url": "https://example.com/images/service3.jpg"
     }
   ]
 }
